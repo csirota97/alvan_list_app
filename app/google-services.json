@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "2861228867",
+    "firebase_url": "https://alvan-b2e03.firebaseio.com",
+    "project_id": "alvan-b2e03",
+    "storage_bucket": "alvan-b2e03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2861228867:android:2bb9f6624fddbfce1e05f6",
+        "android_client_info": {
+          "package_name": "com.craigmsirota.alvan.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2861228867-0jovqfh7thq2766bftiq1f2spa4jgjcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO2mFcWtB9j7n2R00Mg_rGAXwApLMcNEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2861228867-0jovqfh7thq2766bftiq1f2spa4jgjcc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
